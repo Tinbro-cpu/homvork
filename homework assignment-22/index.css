@@ -1,0 +1,23 @@
+a {
+    color: black;
+}
+
+.section-0 {
+    background: #ebbf2f;
+    height: 60px;
+}
+
+.quote {
+    background: #fff676;
+    height: 100px;
+}
+
+footer {
+    background: #9a35b9;
+    color: #fff;
+    height: 300px;
+}
+
+footer a {
+    color: #fff;
+}
