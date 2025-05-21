@@ -1,0 +1,39 @@
+.text {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.tex-2 {
+    font-family: 'Amatic SC';
+    color: blue;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: right;
+    font-weight: 700;
+    font-size: swap;
+    text-decoration: line-through;
+}
+
+.text-3 {
+    font-family: "Nosifer";
+    font-size: 30px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.text-4 {
+    font-family: 'Tuffy';
+    text-indent: 70px;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    white-space: nowrap;
+    text-decoration: overline;
+}
+
+.text-5 {
+    text-decoration: underline;
+}
