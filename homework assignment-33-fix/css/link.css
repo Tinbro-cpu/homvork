@@ -1,0 +1,53 @@
+.body-1{
+    background: #a39e82;
+}
+
+.text {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+    text-decoration: overline double #7a0f69;
+}
+
+.tex-2 {
+    font-family: 'Amatic SC';
+    font-size: 30px;
+    line-height: 40px;
+    text-align: right;
+    font-weight: 700;
+    font-size: swap;
+    text-decoration: underline dotted #1c8525;
+}
+
+.text-3 {
+    font-family: "Nosifer";
+    font-size: 30px;
+    line-height: 40px;
+    text-align: left;
+    text-decoration: line-through double #c42b2b;
+}
+
+.text-4 {
+    font-family: 'Tuffy';
+    text-indent: 70px;
+    word-spacing: 30px;
+    white-space: nowrap;
+    text-decoration: overline wavy #742626;
+}
+
+.text-5 {
+    font-family: 'Akaya Kanadaka';
+    font-size: 30px;
+    line-height: 40px;
+    text-decoration: underline dashed #a1a2b3;
+}
+
+.shadow{
+    font-family: 'Akaya Kanadaka';
+    text-align: center;
+    color: #faebd7;
+    text-shadow: 3px 3px #94d3df;
+}
