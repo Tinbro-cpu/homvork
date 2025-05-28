@@ -1,0 +1,28 @@
+.body {
+    background: #bd2e3a;
+    overflow: auto;
+    width: auto;
+    height: 700px;
+    padding:2px 90px 22px 4px;
+    border-radius: 30px 0 0 30px ;
+}
+
+.block-1 {
+    font-family: "Caveat";
+    font-weight: 700;
+    text-decoration: underline;
+    background: #1b928c;
+    width:250px;
+    height:200px;
+    display: inline-block;
+    padding: 10px;
+    margin: 8px;
+    box-shadow: -1px 2px 14px 18px #00000033 inset;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: "WDXL Lubrifont TC";
+    color: #17309e;
+    text-shadow: 3px -5px #94d3df;
+}
